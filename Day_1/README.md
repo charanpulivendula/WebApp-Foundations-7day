@@ -77,3 +77,5 @@ Both `useState` and Redux have their place in React applications.
 
 Choosing the right state management approach ensures better **performance, maintainability, and developer experience**.
 
+# For advanced concepts check : https://react-redux.js.org/introduction/getting-started, https://react.dev/learn  
+
