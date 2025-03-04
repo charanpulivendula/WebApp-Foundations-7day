@@ -1,0 +1,16 @@
+{
+  "name": "webserver_dashboard",
+  "version": "1.0.0",
+  "main": "webserver_dashboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "protobufjs": "^7.4.0",
+    "webserver_dashboard": "file:"
+  }
+}
