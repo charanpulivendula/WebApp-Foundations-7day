@@ -159,6 +159,8 @@ python Appserver_car.py
 
 Now, the Python sender will continuously stream **random vehicle data** to the Node.js receiver via UDP. The Node.js server will print the received messages in real-time.
 
+![terminal output](image.png)
+
 ---
 
 ## 5. Trade-offs and Other Means
